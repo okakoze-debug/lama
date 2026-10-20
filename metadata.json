@@ -1,0 +1,10 @@
+{
+  "name": "Lama's Magical Birthday Surprise",
+  "description": "A magical, interactive pastel-pink birthday surprise gift for big sister Lama, featuring an opening gift box, strawberry cheesecake, candles, appreciation cards, handwritten letter, and virtual hugs.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
